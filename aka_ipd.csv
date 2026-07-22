@@ -1,0 +1,222 @@
+SURGERY_DATE,MONTH,PATIENTS_NAME,HOSPITAL,SEX,DIAGNOSIS,SURGERY,SURGEONS_NAME,ASST_SURGEON,VISITING_DOC, PAYER ,BILL_AMOUNT,HOSP_CHARGES,NET_PKG,SURGEONS_FEES,EQPMT_CHARGES,ASST SURGEON FEES,VISIT_FEES,ANESTHETIST,ANAES_FEES,OPD,COMPLETE, REMARKS , BILL_NO ,BILL_DATE,id
+7/4/2025,Apr,Nitin Dagare,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Ninad Gandbhir,TPA,"₹ 192,150.00",,"₹ 148,302.00","₹ 56,059.00","₹ 27,000.00",,"₹ 24,024.00",,,,,,,,1
+7/4/2025,Apr,Parthsarthi,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Online,,,,,,,,,,,,,,,,2
+7/4/2025,Apr,Dinesh Shah,SAIFEE,M,Abscess Nape of neck,DOA,,,Online,,,,,"₹ 41,055.00",,,,,,,,,,,3
+8/4/2025,Apr,Rohit Pandey,ASH CH,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Minakshee,,"₹ 127,579.00",,"₹ 88,886.00","₹ 33,599.00","₹ 22,500.00",,"₹ 14,400.00",,,,,,,,4
+10/4/2025,Apr,Amit Nagvekar,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Online,,,,,,,,,,,,,,,,5
+11/4/2025,Apr,Kishan Avasthi,ASH TD,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Online,,,,,,,,,,,,,,,,6
+17/4/2025,Apr,Lawoo Gurav,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Sachin Sawant,,"₹ 77,407.00","₹ 28,704.00",,"₹ 30,800.00",,,"₹ 13,200.00",Dr Kshama,5000,,,,,,7
+18/4/2025,Apr,Sushma Vengurlekar,ASH TD,F,chronic fissure in ano with SAS with ODS,Laser LIS with STARR,,,ASH Td,,,,,,,,,,,,,,,,8
+21/4/2025,Apr,Balkrushna Muram,PAREL HOSP,M,Right Inguinal hernia,Right Inguinal hernia,,,Dr C R Surve,,"₹ 70,736.00","₹ 25,736.00",,"₹ 25,900.00","₹ 3,000.00",,"₹ 11,100.00",Dr Kshama,5000,,,,,,9
+21/4/2025,Apr,Shireein Sirohi,ASH CH,F,chronic fissure in ano with SAS with ODS,Laser LIS with LHP,,,Online,,"₹ 178,600.00",,"₹ 136,314.00","₹ 73,609.00","₹ 22,500.00",,,,,,,,,,10
+21/4/2025,Apr,Pranali Alugade,ASH CH,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt ,,"₹ 140,035.00",,"₹ 103,458.00","₹ 55,868.00","₹ 18,000.00",,,,,,,,,,11
+22/4/2025,Apr,Shruti Gunjal,ASH CH,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Online,,"₹ 145,000.00",,"₹ 104,250.00","₹ 69,550.00","₹ 22,500.00",,,,,,,,,,12
+22/4/2025,Apr,Yogesh Indulkar,ASH TD,M,Umbilical hernia,Umbilical Hernioplasty,,,Dr C R Surve,,"₹ 233,679.00",,"₹ 207,789.00","₹ 78,545.00",,,"₹ 33,662.00",,,,,,,,13
+29/4/2025,Apr,Deepak Gupta,SAVLA,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Google,,,,,"₹ 48,000.00","₹ 20,000.00",,,,,,,,,,14
+30/4/2025,Apr,Kamladas Pardesi,,M,Recurrent fistula in ano,FiLac with DOA,,,Dr Hemant Patil,,,,,"₹ 40,000.00",,,,,,,,,,,15
+1/5/2025,May,Abhishek Vavhal,PAREL HOSP,M,Wound Dehiscence,Secondary suturing,,,Dr C R Surve,,"₹ 43,811.00","₹ 20,811.00",,"₹ 14,000.00",,,"₹ 6,000.00",Dr Kshama,3000,,,,,,16
+2/5/2025,May,Shanta Dafda,ASH TD,F,Fistula in ano with Rectal stricture,FiLaC with stricturoplasty,,,Dr Rajesh Gaikwad,,"₹ 129,392.00",,"₹ 91,962.00","₹ 36,800.00","₹ 18,000.00",,"₹ 23,200.00",,,,,,,,17
+2/5/2025,May,Prajakta Padave,ASH TD,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Pankaj Bandarkar,,"₹ 220,940.00",,"₹ 178,068.00","₹ 67,310.00","₹ 27,000.00",,"₹ 28,847.00",,,,,,,,18
+6/5/2025,May,Mohanram,SENGOL HOSP,M,Recurrent fistula in ano,FiLac with DOA,,,Dr Josef Sengol,,,,,"₹ 15,000.00",,,,,,,,,,,19
+7/5/2025,May,Sameena Ansari,ASH TD,F,Gr III Internal piles,MIPH with LIS,,,Mr abdul,,,,,,,,,,,,,,,,20
+8/5/2025,May,Anil Nakashe,PAREL HOSP,M,Paraumbilical hernia,Umbilical herniorrhaphy,,,Dr Sangeeta Agarwal,,"₹ 90,000.00","₹ 23,330.00",,"₹ 43,169.00",,,"₹ 18,501.00",Dr Kshama,5000,,,,,,21
+8/5/2025,May,Umesh Chavan,PAREL HOSP,M,Pilonidal Sinus,Laser Pilonidoplasty,,,Dr Naved Pathan,,"₹ 70,000.00","₹ 16,335.00",,"₹ 34,065.00",,,"₹ 14,600.00",Dr Kshama,5000,,,,,,22
+8/5/2025,May,Nandini Gharat,ASH TD,F,Recurrent Fistula in ano,FiLac with DOA,,,Dr Deepak Chaudhari,,"₹ 142,250.00",,"₹ 91,272.00","₹ 34,500.00","₹ 27,000.00",,"₹ 14,786.00",,,,,,,,23
+19/5/2025,May,Sabu Josef,ASH TD,M,Gr III Internal piles,MIPH,,,Online,,,,,,,,,,,,,,,,24
+19/5/2025,May,Keval Parekh,ASH TD,M,Infected sebaceous cyst,Cyst Excision with DOA,,,Dr Ramesh Jain,,"₹ 107,776.00",,"₹ 91,909.00","₹ 34,742.00",,,"₹ 14,889.00",,,,,,,,25
+22/5/2025,May,Parmanand Chavan,ASH TD,M,Recurrent fistula in ano,FiLac with DOA,,,Dr Deepak Chaudahri,,"₹ 194,609.00",,"₹ 180,577.00","₹ 68,259.00",,,"₹ 29,253.00",,,,,,,,26
+27/5/2025,May,Balu More,ASH CH,M,Fistula in ano,FiLac with DOA,,,Old pt Dhomse,,"₹ 163,431.00",,"₹ 140,634.00","₹ 75,942.00","₹ 9,000.00",,,,,,,,,,27
+30/5/2025,May,Jahangir Alam,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Dilip Yerunkar,,"₹ 50,000.00","₹ 15,561.00",,"₹ 29,439.00",,,₹ 0.00,Dr Kshama,5000,,,,,,28
+31/5/2025,May,Sandeep Rokade,ASH TD,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Nitin Jathan,,"₹ 239,112.00",,"₹ 191,751.00","₹ 76,545.00","₹ 27,000.00",,"₹ 27,000.00",,,,,,,,29
+3/6/2025,Jun,Swapnil Nalawade,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Sagar Inamdar,,"₹ 145,550.00",,"₹ 99,602.00","₹ 37,651.00","₹ 27,000.00",,"₹ 16,136.00",,,,,,,,30
+6/6/2025,Jun,Sushant Sawant,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Vibha More sister,,,,,,,,,,,,,,,,31
+20/6/2025,Jun,Alisha Almeida,ASH TD,F,Complex fistula in ano with Abscess,FiLac with DOA,,, Old Pt Jenelia Baretto,,,,,,,,,,,,,,,,32
+21/6/2025,Jun,Rohit Gurmukhi,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,self,,"₹ 135,700.00",,"₹ 97,449.00","₹ 52,622.00","₹ 22,500.00",,,,,,,,,,33
+23/6/2025,Jun,Helal Ahmed Khan,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Patankar Mohsin,,,,,"₹ 40,000.00",,,"₹ 20,000.00",,,,,,,,34
+23/6/2025,Jun,Aniket Arbune,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Rajkumar Patil,,"₹ 129,539.00",,"₹ 102,947.00","₹ 38,915.00","₹ 9,000.00",,"₹ 16,677.00",,,,,,,,35
+24/6/2025,Jun,Sunita Shinde ,ASH TD,F,Sebaceous cysts on scalp,Excision ,,,Dr Sagar Inamdar,,"₹ 99,101.00",,"₹ 80,157.00",,"₹ 30,292.00",,"₹ 12,982.00",,,,,,,,36
+30/6/2025,Jun,Glory Vijayaruby,ASH CH,F,Complex fistula in ano with Abscess,FiLac with DOA,,, Dr K Matchvell,,"₹ 159,210.00",,"₹ 120,256.00","₹ 64,939.00","₹ 22,500.00",,,,,,,,,,37
+2/7/2025,Jul,Preet Jain,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Manoj Jain,,"₹ 133,545.00",,"₹ 103,080.00","₹ 38,965.00","₹ 16,200.00",,"₹ 16,698.00",,,,,,,,38
+4/7/2025,Jul,Romil ghadge,ASH TD,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Poonam thange,,"₹ 202,371.00",,"₹ 186,418.00","₹ 70,467.00",,,"₹ 30,199.00",,,,,,,,39
+7/7/2025,Jul,Rahul Tayde,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Saurbh patil,,,,,"₹ 37,000.00",,,,,,,,,,,40
+9/7/2025,Jul,Haitham khalaf,ASH TD,M,Gr III Internal piles,MIPH with LIS,,,IA Pawan Tripathi,,,,,,,,,,,,,,,,41
+11/7/2025,Jul,Harjyot singh chudga,ASH CH,M,Right Inguinal hernia,Right Inguinal hernia,,,Dr Ninad Gandbhir,,"₹ 94,847.00",,"₹ 76,670.00","₹ 28,982.00",,,"₹ 12,420.00",,,,,,,,42
+11/7/2025,Jul,Vinod Shelar,ASH TD,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Old pt dishita mestry,,,,,,,,,,,,,,,,43
+12/7/2025,Jul,Parth poyrekar,ASH CH,M,Pilonidal Sinus,Laser Pilonidoplasty,,,Dr Poyrekar,,"₹ 114,715.00",,"₹ 76,615.00","₹ 26,891.00","₹ 22,500.00",,"₹ 14,480.00",,,,,,,,44
+14/7/2025,Jul,Yogesh Gaikwad,ASH TD,M,Recurrent fistula in ano,FiLac with DOA,,,Google,,,,,,,,,,,,,,,,45
+14/7/2025,Jul,Sadashiv kadam,ASH TD,M,Recurrent fistula in ano,FiLac with DOA,,,Dr Deepak chaudhari,,"₹ 228,710.00",,"₹ 180,170.00","₹ 68,105.00","₹ 27,000.00",,"₹ 29,187.00",,,,,,,,46
+14/7/2025,Jul,Durgadas Shetty,ASH TD,M,Left Foot Cellulitis with abscess,I&D ,,,Dr Deepali Ghadge,,,,,,,,,,,,,,,,47
+15/7/2025,Jul,Rajshri manjrekar,PAREL HOSP,F,Infraumbilical incisional hernia,Incisional hernioplasty,,,Dr Sarita Pandya,,"₹ 155,161.00","₹ 75,161.00",,"₹ 50,000.00",,,"₹ 20,000.00",Dr Pooja,10000,,,,,,48
+16/7/2025,Jul,Bikash Agarwal,ASH TD,M,Gr III Internal piles,MIPH with LIS,,,Mr Ashfaque,,,,,,,,,,,,,,,,49
+16/7/2025,Jul,Nagpuranand prabhala,SAIFEE,M,Gr IV Internal piles,MIPH with LIS,,,Dr Hemmadi,,,,,"₹ 122,549.00",,,"₹ 36,765.00",,,,,,,,50
+17/7/2025,Jul,Tushar Desai,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,"₹ 269,752.00",,"₹ 230,409.00","₹ 124,421.00","₹ 22,500.00",,,,,,,,,,51
+17/7/2025,Jul,Christy muraledharan,ASH CH,F,Recurrent fistula in ano,FiLac with DOA,,,Dr R P Londhe,,"₹ 156,300.00",,"₹ 136,354.00","₹ 73,631.00",₹ 0.00,,"₹ 22,090.00",,,,,,,,52
+18/7/2025,Jul,Ashwini Gurav,ASH TD,F,Recurrent ventral hernia at two sites,Incisional hernioplasty,,,Dr Rachana Naik,,"₹ 143,850.00",,"₹ 100,514.00","₹ 37,994.00",,,"₹ 16,283.00",,,,,,,,53
+19/7/2025,Jul,Nisha Shah,ASH CH,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,self,,"₹ 115,900.00",,"₹ 74,521.00","₹ 40,241.00","₹ 22,500.00",,,,,,,,,,54
+21/7/2025,Jul,Rohit Shikhare,ASH CH,M,Bilateral lower limbs varicose veins,EVLA,,,Smita Korgaonkar sister,,,,,,,,,,,,,,,,55
+22/7/2025,Jul,Mahesh Gurav,ASH TD,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Old Pt Prashant gurav,,,,,,,,,,,,,,,,56
+23/7/2025,Jul,Khushboo Mehta,SAIFEE,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Old Pt Aditi Mistry,,,,,"₹ 100,000.00","₹ 30,000.00",,,,,,,,,,57
+24/7/2025,Jul,Vijay Surve,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,,,,"₹ 52,300.00",,,,Dr Pravin,5000,,,,,,58
+29/7/2025,Jul,Niyati Mudliyar,ASH CH,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,"₹ 149,800.00",,"₹ 104,550.00","₹ 60,000.00","₹ 22,500.00",,,,,,,,,,59
+30/7/2025,Jul,Vaishali Ayare,PAREL HOSP,F,Anal Stenosis with Fibrosis,Anal stricturoplasty ,,,self,,,"₹ 19,508.00",,,,,,Dr Kshama,5000,,,,,,60
+30/7/2025,Jul,Yadnyesh sanaye,PAREL HOSP,M,Gr IV Internal piles with fistula in ano,FiLac with DOA,,,Old Pt Tushar Dhawade,,,"₹ 21,061.00",,,,,,Dr Kshama,5000,,,,,,61
+31/7/2025,Jul,Natwar Marker,ASH TD,M,Gr IV Internal piles,MIPH,,,Dr Nimish Shukla,,"₹ 159,049.00",,"₹ 86,200.00","₹ 32,584.00","₹ 27,000.00",,"₹ 13,964.00",,,,,,,,62
+31/7/2025,Jul,Aruna Jain,PAREL HOSP,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Rahul jain,,"₹ 117,555.00","₹ 37,555.00",,"₹ 75,000.00",,,,Dr Gajanan,5000,,,,,,63
+1/8/2025,Aug,Tushar Laxman Desai,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,,,,,,,,,,,,,,,64
+2/8/2025,Aug,Sumit Gulabwani,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Mr Alam,,"₹ 75,000.00",,,"₹ 44,000.00",,,,Dr Pravin,5000,,,,,,65
+4/8/2025,Aug,Sameer Kumar,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,"₹ 125,246.00","₹ 15,246.00",,"₹ 80,000.00","₹ 25,000.00",,,Dr Pravin,5000,,,,,,66
+5/8/2025,Aug,Minaxi Zaveri,WOCKHARDT,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Hari Chablani,,,,,"₹ 26,920.00","₹ 20,000.00",,"₹ 9,480.00",,,,,,,,67
+6/8/2025,Aug,Kedar Bhogte,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,,,,,,,,,,,,,affiliation 14100,,68
+7/8/2025,Aug,Karim Jivani,SURYA HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Madhav Thombare,,,,,"₹ 23,450.00",,,"₹ 13,721.00",,,,,,,,69
+11/8/2025,Aug,Vimal Bajaj,SAIFEE,M,Gr II internal piles with fissure in ano,Laser LIS with LHP,,,Old Pt Jagdish Bansal,,,,,"₹ 104,250.00",,,,,,,,,,,70
+12/8/2025,Aug,Parthsarthi,PAREL HOSP,M,Nonhealing fistula wound,EUA with debridement of wound,,,self,,"₹ 61,701.00","₹ 19,701.00",,"₹ 37,000.00",,,,Dr Gajanan,5000,,,,,,71
+12/8/2025,Aug,Rajesh Rathod,GLENEAGLES,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Sachin Doshi,,,,,"₹ 37,413.00",,,,,,,,,,,72
+14/8/2025,Aug,Shaily Parmar,SAVLA,F,Recurrent fistula in ano,FiLac with DOA,,,Google,,,,,"₹ 55,000.00","₹ 20,000.00",,,Dr Pravin Shinde,5000,,,,,,73
+15/8/2025,Aug,Christoper James,SURYA HOSP,M,Gr IV Internal piles with fistula in ano,MIPH with Laser LIS,,,Google,,,,,"₹ 58,156.00","₹ 35,500.00",,,,,,,,,,74
+15/8/2025,Aug,Rajesh Olekar,ASH TD,M,Scalp swelling,WLE under GA,,,Dr Sachin Sawant,,"₹ 72,029.00",,"₹ 55,881.00","₹ 22,257.00",,,"₹ 9,539.00",,,,,,,,75
+19/8/2025,Aug,Naresh Gaikwad,ASH TD,M,Recurrent fistula in ano,FiLac with DOA,,,Old Pt Patil,,,,,,,,,,,,,,,,76
+19/8/2025,Aug,Prayag Bhosale,ASH TD,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Rajesh Gaikwad,,"₹ 181,397.00",,"₹ 143,288.00","₹ 48,718.00","₹ 18,000.00",,"₹ 14,329.00",,,,,,,,77
+22/8/2025,Aug,Vatsalam Singh,ASH CH,M,Gr IV Internal piles,MIPH with Laser LIS,,,Google,,,,,,,,,,,,,,,,78
+23/8/2025,Aug,Khilkat Hussain,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Helal khan,,,,,"₹ 38,609.00",,,,,,,,,,,79
+23/8/2025,Aug,Samiksha Farkate,PAREL HOSP,F,Pilonidal Sinus,Laser Pilonidoplasty with DOA,,,Dr Deven naik,,"₹ 70,000.00","₹ 14,035.00",,"₹ 28,965.00","₹ 10,000.00",,"₹ 12,000.00",Dr Anuradha,5000,,,,,,80
+23/8/2025,Aug,Rashmi Gawade,ASH CH,F,Complex fistula in ano with Abscess with Chronic Fissure in ano,FiLac with DOA with LIS,,,Google,,,,,,,,,,,,,,,,81
+25/8/2025,Aug,Hansa Gohil,SAIFEE,F,Gr IV Piles with ODS,STARR with LIS,,,Dr Sarita pandya,,,,,"₹ 123,400.00","₹ 25,000.00",,"₹ 36,000.00",,,,,,,,82
+30/8/2025,Aug,Henny,ASH CH,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Online,,,,,,,,,,,,,,,,83
+2/9/2025,Sep,Jiten Lakhani,SURYA HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Manish Shetty,,,,,"₹ 45,644.00","₹ 18,000.00",,"₹ 19,561.00",,,,,,,,84
+3/9/2025,Sep,Anant Bhanse,ASH CH,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Niranjan Nene,,"₹ 160,472.00",,"₹ 127,536.00","₹ 49,102.00","₹ 13,500.00",,"₹ 21,043.00",,,,,,,,85
+4/9/2025,Sep,Chirag Diora,ASH CH,M,Gr IV Internal piles,MIPH,,,Old Pt,,"₹ 162,811.00",,"₹ 118,712.00","₹ 65,292.00",,,,,,,,,,,86
+6/9/2025,Sep,Khushboo Mehta,SAIFEE,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Old Pt Adity Mistry,,,,,"₹ 100,000.00","₹ 30,000.00",,,,,,,,,,87
+9/9/2025,Sep,Burzan Irani,ASH TD,M,Gr IV Internal piles,MIPH,,,Old Pt,,,,,,,,,,,,,,,,88
+9/9/2025,Sep,Khaleel ebraheem abdulla,ASH TD,M,Gr IV Internal piles,MIPH,,,IA Mr anil kale,,,,,,,,,,,,,,,,89
+16/9/2025,Sep,Raghuraj Gosavi,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Santosh Shete,,"₹ 200,002.00",,"₹ 153,442.00","₹ 58,001.00","₹ 27,000.00",,"₹ 24,857.00",,,,,,,,90
+16/9/2025,Sep,Rupali Satam,ASH TD,F,Incisionl Hernia,Incisional hernioplasty,,,Dr Sanjay Naik,,,,,,,,,,,,,,,,91
+17/9/2025,Sep,Sakshi Shejwal,SAVLA,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Thomas,,,,,"₹ 35,000.00",,,"₹ 8,000.00",,,,,,,,92
+18/9/2025,Sep,Darshan Chheda,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt KIshor shah,,,,,,,,,,,,,,,,93
+19/9/2025,Sep,Sakshi jadhav,PAREL HOSP,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Self,,"₹ 72,165.00","₹ 22,165.00",,"₹ 45,000.00",,,,Dr Anuradha,5000,,,,,,94
+20/9/2025,Sep,Ramchandra Sutar,PAREL HOSP,M,Right Complete inguinal hernia,Inguinal Hernioplasty,,,Dr Ninad Gandbhir,,"₹ 142,565.00","₹ 48,565.00",,"₹ 57,400.00",,,"₹ 24,600.00",Dr Anuradha,12000,,,,,,95
+20/9/2025,Sep,Madhurima Gaddam,ASH TD,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Laila Dave,,"₹ 12,000.00",,"₹ 83,412.00","₹ 36,701.00","₹ 18,000.00",,"₹ 8,301.00",,,,,,,,96
+23/9/2025,Sep,Rajendra mithbavkar,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Sachin Sawant,,"₹ 193,500.00",,"₹ 146,679.00","₹ 55,444.00","₹ 27,000.00",,"₹ 23,762.00",,,,,,,,97
+23/9/2025,Sep,Ashish makhare,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old pt santosh tiwari,,,,,,,,,,,,,,,,98
+25/9/2025,Sep,Mahesh ghare,ASH TD,M,Gr III Internal piles with thrombosed Pile mass,MIPH with Excision of hematoma,,,Dr C T Oswal,,"₹ 144,850.00",,"₹ 106,054.00","₹ 40,088.00",,,"₹ 17,181.00",,,,,,,,99
+26/9/2025,Sep,Swapnali kadam,ASH CH,f,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Old PT Shreya Chavan,,,,,,,,,,,,,,,,100
+29/9/2025,Sep,Sneha Bait,ASH TD,F,Cholelithiasis,Lap Cholecystectomy,,,Dr R P Jain,,"₹ 135,017.00",,"₹ 101,600.00","₹ 46,900.00",,,"₹ 20,100.00",,,,,,,,101
+30/9/2025,Sep,Saba Siddiqui,SAVLA,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Old pt Rashi siddiqui,,,,,"₹ 45,200.00",,,,,,,,,,,102
+30/9/2025,Sep,Surendra Dhanawade,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Sachin Sawant,,"₹ 76,498.00","₹ 21,498.00",,"₹ 28,000.00","₹ 10,000.00",,"₹ 12,000.00",Dr Anuradha,5000,,,,,,103
+3/10/2025,Oct,Madhav Phatak,SAVLA,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Old Pt Vidhi phatak,,"₹ 55,000.00","₹ 15,000.00",,"₹ 35,000.00",,,,,5000,,,,,,104
+4/10/2025,Oct,Viraj Badekar,ASH CH,M,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Manish Deliwala,,"₹ 168,822.00",,"₹ 129,077.00","₹ 45,178.00","₹ 22,500.00",,"₹ 19,361.00",,,,,,,,105
+4/10/2025,Oct,Rakhi Chaulkar,ASH CH,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Self,,,,,,,,,,,,,,,,106
+6/10/2025,Oct,Jyoti tambe,ASH TD,F,Gr IV Internal piles with Fissure in ano,MIPH with Laser LIS,,,Online,,,,,,,,,,,,,,,,107
+6/10/2025,Oct,Pratibha saple,PAREL HOSP,F,chronic fissure in ano with severe anal spasm,Laser LIS with LHP,,,Dr Vikas katkar,,"₹ 80,319.00","₹ 23,319.00",,"₹ 29,400.00","₹ 10,000.00",,"₹ 12,600.00",,,,,,,,108
+7/10/2025,Oct,Sana mapkar,ASH CH,F,Gr IV Internal piles with Fissure in ano,MIPH with Laser LIS,,,Google,,,,,,,,,,,,,,,,109
+10/10/2025,Oct,Vishwajit Deshmukh,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,"₹ 120,753.00","₹ 30,753.00",,"₹ 70,000.00","₹ 15,000.00",,,Dr Anuradha,5000,,,,,,110
+13/10/2025,Oct,Sharvari More,SENGOL HOSP,F,anterior abdominal wall scar sinus,Sinus excision,,,Mahesh Parel Hosp,,,,,"₹ 12,000.00",,,"₹ 5,000.00",,,,,,,,111
+14/10/2025,Oct,Vaibhav Kharade,ASH CH,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Google,,,,,,,,,,,,,,,,112
+14/10/2025,Oct,Ranjit Chavan,ASH CH,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt,,,,,,,,,,,,,,,,113
+15/10/2025,Oct,Shankar Jadhav,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr N M Rokade,,"₹ 70,600.00","₹ 20,700.00",,"₹ 23,940.00","₹ 10,000.00",,"₹ 15,960.00",,5000,,,,,,114
+15/10/2025,Oct,Goldy Jain,GLENEAGLES,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,,,,"₹ 42,215.00",,,,,,,,,,,115
+16/10/2025,Oct,Nikhil Rajan,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Manish Deliwala,,"₹ 131,300.00",,"₹ 91,475.00","₹ 32,017.00","₹ 22,500.00",,"₹ 13,721.00",,,,,,,,116
+18/10/2025,Oct,Kundan Jha,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Manish Shetty,,"₹ 249,979.00",,"₹ 205,420.00","₹ 102,710.00","₹ 27,000.00",,"₹ 30,813.00",,,,,,,,117
+27/10/2025,Oct,Sunita Gound,SENGOL HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Janjirala,,,,,"₹ 36,300.00",,,,,,,,,,,118
+28/10/2025,Oct,Parashar Sawant,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Self,,"₹ 107,077.00","₹ 22,007.00",,"₹ 60,000.00","₹ 20,000.00",,,Dr Gajanan,5000,,,,,,119
+28/10/2025,Oct,Swapnil Tambe,SENGOL HOSP,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Radhika Bhojane,,,,,"₹ 34,269.00",,,,Dr Gajanan,5000,,,,,,120
+31/10/2025,Oct,Ratnmala Bagal,ASH CH,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Vikram Bagal,,"₹ 192,921.00",,"₹ 154,954.00","₹ 56,558.00","₹ 22,500.00",,"₹ 20,919.00",,,,,,,,121
+31/10/2025,Oct,Ranjeeta Bhagalia,SL RAHEJA,F,Sebaceous cyst on back,Excision of Sebaceous Cyst with DOA,,,Dr Milind Phadke,,,,,,,,,,,,,,,,122
+6/11/2025,Nov,Sachin Surve,SENGOL HOSP,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Vinod patil,,,,,"₹ 24,400.00",,,"₹ 9,000.00",Dr Gajanan,5000,,,,,,123
+7/11/2025,Nov,Himanshu Jain,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,,,,,,,,,,,,,,,124
+8/11/2025,Nov,Ammini Verghese,SAVLA,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,old pt Shafique,,"₹ 63,190.00","₹ 15,030.00",,"₹ 33,160.00","₹ 10,000.00",,,,5000,,,,,,125
+10/11/2025,Nov,Appasaheb Inamdar,,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Sagar Inamdar,,,,,"₹ 10,000.00",,,,,,,,,,,126
+11/11/2025,Nov,Swapna Mhatre,PAREL HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Pooja Joshi,,"₹ 156,132.00","₹ 71,132.00",,"₹ 49,000.00",,,"₹ 21,000.00",Dr Anuradha,15000,,,,,,127
+12/11/2025,Nov,Shobha Mahajan,PAREL HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Google,,"₹ 79,097.00","₹ 20,407.00",,"₹ 40,000.00","₹ 12,000.00",,,Dr Anuradha,5000,,,,,,128
+12/11/2025,Nov,Prakash Kandar,ASH TD,M,Leg abscess,DOA with debridement,,,Dr Sachin sawant,,,,,"₹ 33,319.00",,,"₹ 14,280.00",,,,,,,,129
+14/11/2025,Nov,Manisha Jadhav,PAREL HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt,,"₹ 60,000.00","₹ 17,263.00",,"₹ 37,737.00",,,,Dr Anuradha,5000,,,,,,130
+15/11/2025,Nov,Sanjana Deshpande,SURYA HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Just Dial,,,,,"₹ 58,156.00","₹ 22,500.00",,,,,,,,,,131
+18/11/2025,Nov,Amit Malap,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,,,,,,,,,,,,,,,132
+18/11/2025,Nov,Milind Darole,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Mr Darole,,,,,,,,,,,,,,,,133
+20/11/2025,Nov,Ashwini Gole,PAREL HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt Kavita Mane,,"₹ 70,000.00","₹ 19,312.00",,"₹ 40,688.00","₹ 10,000.00",,,Dr Anuradha,5000,,,,,,134
+22/11/2025,Nov,Neetu Wadagale,SAVLA,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Iravati Purandare,,,,,,,,,,,,,,,,135
+24/11/2025,Nov,Nilesh Jadhav,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr R P Londhe,,"₹ 57,360.00","₹ 17,360.00",,"₹ 28,000.00",₹ 0.00,,"₹ 12,000.00",,5000,,,,,,136
+25/11/2025,Nov,Abhijeet Hanje,SURYA HOSP,M,Gr IV Internal piles,MIPH,,,Google,,,,,"₹ 44,879.69","₹ 38,070.00",,,,,,,,,,137
+27/11/2025,Nov,Suraj Kanse,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Kishor Dave,,"₹ 156,050.00",,"₹ 117,786.00","₹ 41,225.00","₹ 22,500.00",,"₹ 17,668.00",,,,,,,,138
+28/11/2025,Nov,Sanket Jadhav,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Gopal Nene,,,,,"₹ 32,955.00","₹ 10,000.00",,"₹ 14,124.00",,,,,,,,139
+29/11/2025,Nov,Meet Mundhra,ASH CH,M,Pilonidal sinus with abscess,Laser Pilonidoplasty with DOA,,,Dr Hamid Khan,,"₹ 158,025.00",,"₹ 120,009.00","₹ 40,004.00","₹ 22,500.00",,"₹ 20,000.00",,,,,,,,140
+29/11/2025,Nov,Santosh Chalke,SAVLA,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Vinod patil,,"₹ 80,648.00","₹ 17,648.00",,"₹ 34,000.00","₹ 13,000.00",,"₹ 16,000.00",,5000,,,,,,141
+1/12/2025,Dec,Mihir Pawar,ASH CH,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Sister Keval,,,,,,,,,,,,,,,,142
+1/12/2025,Dec,Pradip Yadav,,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Ved hospital,,,,,"₹ 40,000.00",,,,,,,,,,,143
+2/12/2025,Dec,Mangesh shelar,ASH TD,M,Gr IV Internal piles,MIPH,,,Dr Pragji Vaja,,"₹ 249,759.00",,"₹ 206,033.00","₹ 78,017.00","₹ 25,000.00",,"₹ 23,405.00",,,,,,,,144
+5/12/2025,Dec,Savita Mane,SAVLA,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Vaishali Sister KBBH,,"₹ 42,000.00","₹ 11,600.00",,"₹ 13,400.00","₹ 12,000.00",,₹ 0.00,Dr Pravin shinde,5000,,,,,,145
+6/12/2025,Dec,Smita Kamble,PAREL HOSP,F,Gr IV Internal piles with Fissure in ano,MIPH with Laser LIS,,,Old Pt Manisha Jadhav,,"₹ 78,196.00","₹ 33,196.00",,"₹ 25,000.00","₹ 15,000.00",,,Dr Anuradha,5000,,,,,,146
+6/12/2025,Dec,Ajay Redij,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Deven Naik,,"₹ 226,024.00",,"₹ 192,066.00","₹ 67,223.00","₹ 18,000.00",,"₹ 28,810.00",,,,,,,,147
+6/12/2025,Dec,Prasad Sawant,SAIFEE,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,,,,,,,,,,,,,,,148
+8/12/2025,Dec,Vinayak Dhide,SAIFEE,M,Gr IV Internal piles,MIPH,,,Self,,,,,,,,,,,,,,,,149
+11/12/2025,Dec,Zakir Hussain,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Mr Ashfaque ASH,,"₹ 60,265.00","₹ 30,265.00",,"₹ 25,000.00",₹ 0.00,,₹ 0.00,Dr Anuradha,5000,,,,,,150
+16/12/2025,Dec,Manish Tari,ASH CH,M,chronic fissure in ano with Gr IV internal piles,Laser LIS with LHP,,,Practo,,,,,,,,,,,,,,,,151
+16/12/2025,Dec,Swapnil Khochare,ASH CH,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Online,,,,,,,,,,,,,,,,152
+17/12/2025,Dec,Ajit Yadav,ASH TD,M,Pilonidal sinus with abscess,Laser Pilonidoplasty with DOA,,,Dr Premsagar Baudha,,"₹ 201,231.00",,"₹ 155,472.00","₹ 77,736.00","₹ 27,000.00",,"₹ 23,320.00",,,,,,,,153
+17/12/2025,Dec,Sarvana Kumar,PAREL HOSP,M,Gr IV Internal piles with Fissure in ano,MIPH with LIS,,,Old Pt Partsarthi,,"₹ 92,617.00","₹ 32,617.00",,"₹ 30,000.00","₹ 25,000.00",,,Dr Anuradha,5000,,,,,,154
+18/12/2025,Dec,Swati thakur,SAIFEE,F,Cholelithiasis,Lap Chloecystectomy with Umbilical hernia repair,,,Dr Pooja Joshi,,,,,"₹ 70,000.00",,,"₹ 30,000.00",,,,,,,,155
+22/12/2025,Dec,Rahul Shinde,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Dhananjay More,,"₹ 161,900.00",,"₹ 146,369.00","₹ 45,979.00","₹ 8,000.00",,"₹ 19,705.00",,,,,,,,156
+22/12/2025,Dec,Mohd Arif Shaikh,SURYA HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA with MIPH,,,Dr Atique Shaikh,,,,,"₹ 34,074.00","₹ 36,322.00",,"₹ 17,037.00",,,,,,,,157
+23/12/2025,Dec,Shama Hasolkar,SAVLA,F,chronic fissure in ano with abscess with Gr IV internal piles,MIPH with Laser LIS,,,Dr Atique Shaikh,,"₹ 85,350.00","₹ 17,980.00",,"₹ 35,000.00","₹ 22,300.00",,"₹ 15,000.00",Dr Pravin shinde,5000,,,,,,158
+24/12/2025,Dec,Mohd Easa Shaikh,SENGOL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Shrinivas Rao,,"₹ 40,364.00",,,"₹ 20,000.00","₹ 8,523.00",,"₹ 6,841.00",Dr Gajanan,5000,,,,,,159
+24/12/2025,Dec,Kailash Pagare,SENGOL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Milind Ughade,,,,,"₹ 48,622.00",,,,Dr Gajanan,5000,,,,,,160
+27/12/2025,Dec,Preethesh Shetty,ASH CH,M,Gr IV Internal piles,MIPH,,,Online,,,,,,,,,,,,,,,,161
+27/12/2025,Dec,Pramod Gaikwad,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Anita Sister KBBH,,,,,,,,,,,,,,,,162
+29/12/2025,Dec,Sweety Tiwari,ASH TD,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Just Dial,,,,,,,,,,,,,,,,163
+29/12/2025,Dec,Pradeep Jagarollu,PAREL HOSP,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Online,,"₹ 99,664.00","₹ 24,664.00",,"₹ 50,000.00","₹ 20,000.00",,,Dr Anuradha,5000,,,,,,164
+30/12/2025,Dec,Pradeep Yadav,SENGOL HOSP,M,Complex fistula in ano with Abscess,EUA,,,Old Pt,,,,,"₹ 18,943.00",,,,,,,,,,,165
+5/1/2026,Jan,Kavita Satpute,ASH TD,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Online,,,,,,,,,,,,,,,,166
+5/1/2026,Jan,Abdul Rehman Shaikh,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,IN Anil Kale,,,,,"₹ 30,000.00",,,,,,,,,,,167
+6/1/2026,Jan,Surekha Bhalke,SAVLA,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt Maruthi Bhalke,,"₹ 70,020.00","₹ 23,100.00",,"₹ 41,900.00",,,,Dr Pravin shinde,5000,,,,,,168
+7/1/2026,Jan,Omkar Malpote,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Pradip Narkhede,,,,,,,,,,,,,,,,169
+7/1/2026,Jan,Madhuri Govilkar,SAVLA,F,chronic fissure in ano ODS,STARR with Laser LIS,,,Dr Annil Avhad,,"₹ 115,970.00","₹ 21,970.00",,"₹ 27,000.00","₹ 50,000.00",,"₹ 12,000.00",Dr Pravin shinde,5000,,,,,,170
+8/1/2026,Jan,Rachit Dethe,SENGOL HOSP,M,Submandibular Abscess,DOA ,,,Relative Nayana Salve,,,,,"₹ 8,527.00",,,,,,,,,,,171
+8/1/2026,Jan,Rimlata Yadav,SENGOL HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt Pradeep Yadav,,"₹ 33,000.00",,,"₹ 14,876.00",,,,,,,,,,,172
+12/1/2026,Jan,Nandkumar Surve,ASH CH,M,Cholelithiasis,Lap cholecystectomy,,,Dr Pooja Joshi,,"₹ 96,950.00",,"₹ 35,465.00","₹ 19,575.00","₹ 7,500.00",,"₹ 8,390.00",,,,,Asst 7500,,,173
+12/1/2026,Jan,Nikita Devhare,ASH TD,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt Neha Tallkoti,,,,,,,,,,,,,,,,174
+13/1/2026,Jan,Sumayya Taylor,SENGOL HOSP,F,Chronic Constipation with Impacted Stool,Manual evacuation of stool,,,Dr Ganesh Dhangar,,,,,"₹ 5,000.00",,,,,,,,,,,175
+13/1/2026,Jan,Mohanlal Jat,SAVLA,M,ODS with Gr4 Piles,STARR,,,Old Pt Gulabram Purohit,,"₹ 72,240.00",,,"₹ 30,000.00","₹ 45,000.00",,,Dr Pravin shinde,5000,,,,,,176
+14/1/2026,Jan,Kavita Gada,ASH TD,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Naved Pathan,,"₹ 113,789.00",,"₹ 81,047.00","₹ 28,366.00","₹ 13,500.00",,"₹ 12,157.00",,,,,,,,177
+17/1/2026,Jan,Jaysingh Borge,SENGOL HOSP,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt Rasam,,,,,"₹ 34,459.00",,,,,,,,,,,178
+19/1/2026,Jan,Rajesh Patil,ASH TD,M,Gr IV Internal piles,MIPH,,,Old Pt Sable,,,,,,,,,,,,,,,,179
+19/1/2026,Jan,Abdul Karim Qureshi,ASH TD,M,chronic fissure in ano with Gr IV iinternal piles,MIPH with Laser LIS,,,Shafiq Biomed ASH,,"₹ 93,257.00","₹ 38,257.00",,"₹ 40,000.00","₹ 15,000.00",,,,,,,,,,180
+23/1/2026,Jan,Kunal Pangale,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Manisha Pangale,,,,,,,,,,,,,,,,181
+24/1/2026,Jan,Kartik Kannav,ASH CH,M,Phimosis,Stapler Circumcision,,,Dr Vijay Sangole,,"₹ 35,925.00",,"₹ 26,019.00","₹ 9,106.00","₹ 15,000.00",,"₹ 3,903.00",,,,,,,,182
+24/1/2026,Jan,Chandrakant Jadhav,SENGOL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Swaapnil Tambe,,,,,"₹ 38,992.00",,,,,,,,,,,183
+29/1/2026,Jan,Drishti Hingorani,SURYA HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Old Pt Hingorani,,,,,"₹ 80,676.00","₹ 20,250.00",,,,,,,,,,184
+30/1/2026,Jan,Shreyas Ugalmugale,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Annil Avhad,,"₹ 98,424.00","₹ 28,424.00",,"₹ 35,000.00","₹ 15,000.00",,"₹ 15,000.00",Dr Anuradha,5000,,,,,,185
+30/1/2026,Jan,Mohd Akhtar Shaikh,SENGOL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Josef Sengol,,,,,"₹ 35,000.00",,,,,,,,,,,186
+31/1/2026,Jan,Nazir Chougule,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Vikram Ghanekar,,"₹ 85,000.00","₹ 24,818.00",,"₹ 45,182.00","₹ 10,000.00",,₹ 0.00,Dr Anuradha,5000,,,,,,187
+3/2/2026,Feb,Savita Gaikwad,ASH CH,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Deepali Bhoite,,"₹ 143,415.00",,"₹ 98,187.00","₹ 36,444.00","₹ 27,000.00",,"₹ 12,150.00",,,,,,,,188
+5/2/2026,Feb,Revant Nandgaonkar,ASH CH,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Online,,,,,,,,,,,,,,,,189
+6/2/2026,Feb,Shrikant Maity,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Old Pt Sachin Kamble,,,,,,,,,,,,,,,,190
+6/2/2026,Feb,Rooplal Jaiswal,PAREL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Naved Pathan,,"₹ 84,268.00","₹ 29,268.00",,"₹ 28,000.00","₹ 10,000.00",,"₹ 12,000.00",Dr Anuradha,5000,,,,,,191
+7/2/2026,Feb,Yogita Kale,ASH TD,F,Sebaceous Cyst below Rt Breast,Excision of Sebaceous Cyst,,,Dr Shivam Borkar,,"₹ 64,320.00",,"₹ 53,785.00","₹ 18,825.00",,,"₹ 8,067.00",,,,,,,,192
+13/2/2026,Feb,Lumbini Bhosale,SAVLA,F,Gr IV Internal piles,MIPH,,,Dr P T Gaikwad,,,,,"₹ 40,000.00","₹ 25,000.00",,₹ 0.00,Dr Pravin shinde,5000,,,,,,193
+13/2/2026,Feb,Deena Jadhav,ASH TD,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Sagar Inamdar,,"₹ 104,325.00",,"₹ 88,740.00","₹ 26,742.00",,,"₹ 8,914.00",Plus 8914 paid by ASH,,,,,,,194
+14/2/2026,Feb,Rajesh Maine,PAREL HOSP,M,Pilonidal sinus with abscess,Laser Pilonidoplasty with DOA,,,Dr Kranti Mali,,"₹ 78,986.00","₹ 21,986.00",,"₹ 28,000.00","₹ 12,000.00",,"₹ 12,000.00",Dr Anuradha,5000,,,,,,195
+14/2/2026,Feb,Namita Bane,PAREL HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Ameya Purandare,,"₹ 69,178.00","₹ 24,178.00",,"₹ 40,000.00",,,,Dr Anuradha,5000,,,,,,196
+14/2/2026,Feb,Aishwarya Dagare,PAREL HOSP,M,Pilonidal sinus with abscess,Laser Pilonidoplasty with DOA,,,Dr Niranjan Nene,,"₹ 102,427.00","₹ 37,427.00",,"₹ 60,000.00","₹ 12,000.00",,"₹ 14,400.00",Dr Anuradha,5000,,,,,,197
+16/2/2026,Feb,Ayush Pawar,SENGOL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Pravin Damre,,,,,"₹ 22,680.00","₹ 8,000.00",,"₹ 9,720.00",,,,,,,,198
+18/2/2026,Feb,Vasant Kothari,SURYA HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA with MIPH,,,Dr Paresh Joshi,,,,,,,,,,,,,,,,199
+18/2/2026,Feb,Sanjay Rawal,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Rashmi Dedhia,,"₹ 180,550.00",,"₹ 166,202.00","₹ 64,171.00","₹ 20,000.00",,"₹ 18,930.00",,,,,,,,200
+21/2/2026,Feb,Prithviraj Shinde,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Milind Navlakhe,,"₹ 179,445.00",,"₹ 112,728.00","₹ 56,364.00","₹ 22,500.00",,₹ 0.00,,,,,,,,201
+25/2/2026,Feb,Ujjwala Desai,ASH CH,F,Gr IV Internal piles,MIPH,,,Old Pt Tushar Desai,,,,,,,,,,,,,,,,202
+28/2/2026,Feb,Rinkle Thakker,ASH CH,F,Complex fistula in ano with Abscess,FiLac with DOA,,,Old pt Sanjay Rawal,,,,,,,,,,,,,,,,203
+6/3/2026,Mar,Mohd Sharif Qureshi,SENGOL HOSP,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Dr Josef Sengol,,,,,"₹ 30,000.00",,,,,,,,,,,204
+7/3/2026,Mar,Pratap Manjrekar,SURYA HOSP,M,Complex fistula in ano with Abscess with Gr 2 piles,FiLac with DOA with LHP,,,Self,,,,,,,,,,,,,,,,205
+7/3/2026,Mar,Pragati Dhekale,ASH TD,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Naved Pathan,,"₹ 122,070.00",,"₹ 86,723.00","₹ 30,353.00","₹ 22,500.00",,"₹ 13,009.00",,,,,,,,206
+9/3/2026,Mar,Manoj Jain,ASH TD,M,Irreducible Umbilical hernia,Umbilical hernioplasty with omentectomy,,,Google,,,,,,,,,,,,,,,,207
+9/3/2026,Mar,Govind Phad,ASH TD,M,Complex fistula in ano with Abscess,FiLac with DOA,,,Google,,"₹ 112,001.00",,"₹ 71,050.00","₹ 45,000.00","₹ 22,500.00",,,,,,,,,,208
+10/3/2026,Mar,Kalpesh Ranawat,ASH TD,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Manoj Jain,,"₹ 168,050.00",,"₹ 118,974.00","₹ 35,993.00","₹ 27,000.00",,"₹ 11,997.00",,,,,,,,209
+11/3/2026,Mar,Mahesh Goriwale,SENGOL HOSP,M,NHU with Stricture in ano,Debridement with Stricturotomy,,,Dr Prabodh Gaikwad,,,,,"₹ 20,449.00",₹ 0.00,,"₹ 6,000.00",Dr Anuradha,5000,,,,,,210
+12/3/2026,Mar,Rowyn Dmello,SURYA HOSP,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Online,,,,,"₹ 12,808.00","₹ 22,500.00",,,,,,,,,,211
+13/3/2026,Mar,Mohd Shahzad,PAREL HOSP,M,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Online,,,,,,,,,,,,,,,,212
+18/3/2026,Mar,Vishakha Kothawale,ASH CH,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,old Pt Matle,,,,,,,,,,,,,,,,213
+21/3/2026,Mar,Suresh Patkar,ASH TD,M,BL inguinal hernia with Umbilical Hernia,,,,Dr Ninad Gandbhir,,"₹ 263,408.00",,"₹ 242,927.00","₹ 85,025.00",,,"₹ 36,439.00",,,,,,,,214
+25/3/2026,Mar,Dharmesh Chitroda,SAIFEE,M,Recurrent Fissure in ano,Laser LIS with LHP,,,Dr Abhay Parekh,,,,,"₹ 70,000.00","₹ 25,000.00",,"₹ 30,000.00",,,,,,,,215
+26/3/2026,Mar,Tarandeep Singh,ASH TD,M,Pilonidal sinus with abscess,Laser Pilonidoplasty,,,Dr Manoj Jain,,"₹ 84,973.00",,"₹ 55,512.00","₹ 16,654.00","₹ 13,500.00",,"₹ 5,551.00",,,,,,,,216
+26/3/2026,Mar,Dastgir Sayed,SENGOL HOSP,M,Left Hydrocoele,Jaboulay's Repair,,,Dr Dilip Patil,,,,,"₹ 15,427.00",₹ 0.00,,"₹ 4,500.00",Dr Anuradha,3000,,,,,,217
+27/3/2026,Mar,Pooja Thoti,SURYA HOSP,F,chronic fissure in ano with Gr II internal piles,Laser LIS with LHP,,,Dr Ejaz Hamati,,,,,,,,"₹ 10,000.00",,,,,,,,218
+27/3/2026,Mar,Vijaya Pogula,ASH TD,F,Complex fistula in ano with Abscess with Gr 2 piles,FiLac with DOA,,,Online,,,,,"₹ 59,024.00",,,,,,,,,,,219
+30/3/2026,Mar,Aniket Narkar,ASH TD,M,,,,,Old Pt ,,"₹ 176,130.00",,"₹ 123,852.00",,,,,,,,,,,,220
+31/3/2026,Mar,Kavita Bhondave,PAREL HOSP,,,,,,Dr Sachin Sawant,,,,,,,,,,,,,,,,
